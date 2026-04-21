@@ -14,6 +14,24 @@
 
 ---
 
+## 🎬 Demo
+![Morpheus Demo](demo.gif)
+
+*Formal verification of smart contracts*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Contract Analysis | ![analysis](screenshots/contract-analysis.png) |
+| Proof Viewer | ![proof](screenshots/proof-viewer.png) |
+| Vulnerability Report | ![vulns](screenshots/vulns.png) |
+
+## Visual Description
+Contract analysis shows parsed Solidity with control flow graph. Proof viewer displays formal specifications and verification results. Vulnerability report lists found issues with severity.
+
+---
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
